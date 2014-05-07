@@ -32,4 +32,4 @@ ENV SHELL /bin/bash
 
 EXPOSE 23
 
-CMD /sbbs/exec/sbbs -d
+CMD "/sbbs/exec/sbbs"
