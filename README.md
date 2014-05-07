@@ -1,4 +1,6 @@
-Synchronet
-----------
+Synchronet as a Docker container
+--------------------------------
 
-WIP (http://wiki.synchro.net/install:nix)
+Synchronet is a telnet BBS. More info [here](http://synchro.net/).
+
+This is a work-in-progress ( following http://wiki.synchro.net/install:nix)
